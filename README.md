@@ -7,8 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=JoseCMessias&color=yellow" alt="Profile views" /> 
 </p>
 
- Sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, em constante busca por novos aprendizados.
- Atualmente estou consolidando meus conhecimentos em Angular e Nodejs.
+Sou um entusiasta da tecnologia, atuando como Desenvolvedor de Software na DUO Technology e estudante de Análise e Desenvolvimento de Sistemas. Em constante busca por novos aprendizados, estou consolidando meus conhecimentos em Angular e Node.js. No meu dia a dia, aplico esses conhecimentos para desenvolver soluções eficientes e inovadoras para os projetos em que atuo.
 
  [Portfolio](https://portfolio-angular-fmss.vercel.app/)
 
